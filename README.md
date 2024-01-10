@@ -1,4 +1,6 @@
 # NARUTO-MD 
+[NARUTO-MD.jpg]
+
 je suis NARUTO-MD un bot développer par LOUKSON-UZUMAKI 
 
 
