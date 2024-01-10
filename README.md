@@ -8,7 +8,13 @@ un bot qui va faciliter les choses sur WhatsApp il peut télécharger des fichie
 session id scanne et va déployer ton bot sur heroku 🤘🏻🌀
 
 
-[heroku lien de déploiement]
+[HEROKU LIEN DE DÉPLOIEMENT]
+
 si tu n'a pas de compte heroku clic sur cette lien pour ten crée une 🌀🤘🏻
 
-si tu a déjà un
+si tu a déjà un compte heroku clic sur le lien tu seras diriger sur heroku déploiement de NARUTO-MD
+
+
+Pour les infos contacter mon avec ce lien 
+
+      OU  SUR MON NUMÉRO WHATSAPP 22502334019
