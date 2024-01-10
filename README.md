@@ -1,6 +1,8 @@
 # NARUTO-MD 
 [NARUTO-MD.jpg]
 
+https://telegra.ph/file/fc6792e17e757a665a259.jpg
+
 je suis NARUTO-MD un bot développer par LOUKSON-UZUMAKI 
 
 
