@@ -1,3 +1,14 @@
 # NARUTO-MD 
 je suis NARUTO-MD un bot développer par LOUKSON-UZUMAKI 
-![IMG-20231214-WA0079](https://github.com/Loukson0/NARUTO-MD/assets/155029406/eacaa8cd-2cf5-4a8c-93d2-f4be177c67a3
+
+
+
+un bot qui va faciliter les choses sur WhatsApp il peut télécharger des fichiers vidéo musiques il peut aider aussi dans les groupes WhatsApp
+
+session id scanne et va déployer ton bot sur heroku 🤘🏻🌀
+
+
+[heroku lien de déploiement]
+si tu n'a pas de compte heroku clic sur cette lien pour ten crée une 🌀🤘🏻
+
+si tu a déjà un
